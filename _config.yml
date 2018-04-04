@@ -1,12 +1,12 @@
 title: Steve Kim
 description: My Personal Blog
 author: Steve Kim
-logo: /blockchain/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/softkid
 about: Freelance developer
 
-baseurl: "https://softkid.github.io/blockchain"
-url: "https://softkid.github.io/blockchain"
+baseurl: "https://softkid.github.io/"
+url: "https://softkid.github.io/"
 
 allowsearch: true
 
