@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/softkid
 about: Freelance developer
 
-baseurl: "https://softkid.github.io/"
-url: "https://softkid.github.io/"
+baseurl: "https://softkid.github.io"
+url: "https://softkid.github.io"
 
 allowsearch: true
 
