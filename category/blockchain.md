@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: blockchain
-title: blockchain
+title: Blockchain
 permalink: /category/blockchain
 ---
