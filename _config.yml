@@ -3,7 +3,7 @@ description: BlockChain Blog
 author: Steve Kim
 logo: /static/img/avatar.png
 github: https://github.com/softkid
-about: Freelance developer
+about: Developer, Marketing
 
 baseurl: "https://softkid.github.io"
 url: "https://softkid.github.io"
@@ -11,7 +11,7 @@ url: "https://softkid.github.io"
 allowsearch: true
 
 disqus_shortname: softkids
-google_analytics: UA-72862926-1
+google_analytics: UA-51091735-2
 
 share:
   twitter_username: \#
