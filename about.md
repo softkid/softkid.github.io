@@ -8,24 +8,29 @@ permalink: /about/
 
 ### Experience
 {% highlight ruby %}
- 1999 Network Management System
+1999 Network Management System
 2000 Website Development / Medical Product / Game Development
- 2003 Internet Phone Solution
+2003 Internet Phone Solution
 2005 Remote Education Solution
- 2009 Game Portal Development / ShoppingMall Development / WebDesign
+2009 Game Portal Development / ShoppingMall Development / WebDesign
 2010 MobileApp Game / kakao Game / MobileApp / WebHosting
- 2016 Internet Marketing Program  / WebApp   
+2016 Internet Marketing Program  / WebApp   
 # Application - WebSolution - MobileApp - WebDesign - BackEnd Server Building - Hardware Making
 {% endhighlight %}
 
 
-<p>Meanwhile, as a software engineer, I do all kinds of programming/coding, from web front-end, Mobile Apps to database and Hardware Engineering.</p>
+<p>As a software engineer, I do all kinds of programming/coding/making, from web front-end, Mobile Apps, Security Server to database and Hardware Engineering.</p>
 
 <hr />
 
+<p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.
+As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, when I looked back, I had a lot of experience but I did not grow it properly.
+And I lost my health a few years ago. I lost everything with him. We will be able to walk outside in January 2018 with our efforts for three years.
+Why are you losing your health?</p>
+
 <h2 id="why-this-blog">Why this blog</h2>
 
-<p>This blog is a summary of my learning process. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
+<p>This blog is a summary of technical news. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
 
 <hr />
 
@@ -36,7 +41,7 @@ permalink: /about/
 <small style="font-size: .65rem;color:#aaa;">Fall 13' @ Tongji SSE Orientation Gala</small>
 </div>
 
-<h3 id="tac">TAC</h3>
+<h3 id="tac">Drone</h3>
 
 <p>TAC stands for <b>T</b>ongji <b>A</b>pple <b>C</b>lub. This is an amazing student developer organisation. As a key member, I was involved into many projects’ planning and development. Being able to work with those talented and brilliant guys is the luckiest thing ever.</p>
 
