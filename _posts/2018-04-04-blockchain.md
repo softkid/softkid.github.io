@@ -2,7 +2,7 @@
 layout: post
 title:  BlockChain
 date:   2018-04-04 15:00:00
-categories: blockchain
+categories: others
 ---
 
 ## 블록체인의 시대
