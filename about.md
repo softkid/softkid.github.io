@@ -30,6 +30,7 @@ permalink: /about/
 <b>Dilailima said. "Man can not live alone, only in relationship".</b><br> 
 How to live is given to each person. It was a happy life I hoped for through the success of money. We must strive for happiness. 100% success. 100% laughter. All of you have sufficient competence. You just have to learn and make efforts. Failure is not your fault. Most of us have not learned how important life is from failing since childhood from parents from the country. From now on, ask yourself every day.<br> <b>"Am I happy?" Called..</b></p>
 
+<hr /> 
 <h2 id="why-this-blog">Wanted</h2>
 
 <p>This blog is a summary of my thoughts about world wide technical information. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
@@ -43,7 +44,7 @@ How to live is given to each person. It was a happy life I hoped for through the
 
 
 
-<h2 id="activities">Activities</h2>
+<!--h2 id="activities">Activities</h2>
 
 <div style="vertical-align:baseline;float:right;width:15rem;margin-left:1rem;display:none;">
 <img style="margin:0;padding:0" src="/public/imgs/about/hosting.jpg" />
@@ -59,4 +60,4 @@ How to live is given to each person. It was a happy life I hoped for through the
 <p>At a very young age, I worked at QTV(Qingdao Television Station) as a Kids Channel host. In college, I hosted several major celebrations. Meanwhile, I am the champion of <em>Praise China</em> Langsong Contest.</p>
 
 <h3 id="writing">Writing</h3>
-<p>Besides coding, I am a freelance writer and blogger, being featured on the front page of Baidu Space for several times, and often invited to write for magazines.</p>
+<p>Besides coding, I am a freelance writer and blogger, being featured on the front page of Baidu Space for several times, and often invited to write for magazines.</p-->
