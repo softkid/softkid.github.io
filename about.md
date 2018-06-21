@@ -3,10 +3,34 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p>My name is Zhihao Li (Chinese: 李志浩, Pronunciation: <a href="http://www.pronouncenames.com/pronounce/zhihao">G-How Lee</a>). I am a software engineer at <a href="http://www.magicleap.com">Magic Leap</a>, working on all kinds of cool stuff on AR/Deep Learning/HCI. I graduated from <a href="http://www.cmu.edu">Carnegie Mellon University (CMU)</a> with a Master of Science degree in Computer Science. The program is one of the most competitive programs (&lt;5% admission rate!). Before that, I obtained my bachelor’s degree in Software Engineering from <a href="http://www.tongji.edu.cn/">Tongji University</a>, China.</p>
 
-Marketing Solution
-a
-Blockchain Solution
-b
-Trading Bot
-c
+<p>I am a passionate machine learning and computer vision practitioner and researcher. I also studied neuroscience and cognitive science in college. But I believe computers have their own mechanisms to achieve intelligence, not necessarily the same as humans’.</p>
+
+<p>Meanwhile, as a software engineer, I do all kinds of programming/coding, from web front-end, iOS Apps to database and robot platforms. For more, please see my <a href="https://www.linkedin.com/in/lizhihao">Linkedin Profile</a>.</p>
+
+<hr />
+
+<h2 id="why-this-blog">Why this blog</h2>
+
+<p>This blog is a summary of my learning process. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
+
+<hr />
+
+<h2 id="activities">Activities</h2>
+
+<div style="vertical-align:baseline;float:right;width:15rem;margin-left:1rem;">
+<img style="margin:0;padding:0" src="/public/imgs/about/hosting.jpg" />
+<small style="font-size: .65rem;color:#aaa;">Fall 13' @ Tongji SSE Orientation Gala</small>
+</div>
+
+<h3 id="tac">TAC</h3>
+
+<p>TAC stands for <b>T</b>ongji <b>A</b>pple <b>C</b>lub. This is an amazing student developer organisation. As a key member, I was involved into many projects’ planning and development. Being able to work with those talented and brilliant guys is the luckiest thing ever.</p>
+
+<h3 id="art-of-public-speaking-and-langsong">Art of Public Speaking and Langsong</h3>
+
+<p>At a very young age, I worked at QTV(Qingdao Television Station) as a Kids Channel host. In college, I hosted several major celebrations. Meanwhile, I am the champion of <em>Praise China</em> Langsong Contest.</p>
+
+<h3 id="writing">Writing</h3>
+<p>Besides coding, I am a freelance writer and blogger, being featured on the front page of Baidu Space for several times, and often invited to write for magazines.</p>
