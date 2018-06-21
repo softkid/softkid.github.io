@@ -3,11 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p>My name is Zhihao Li (Chinese: 李志浩, Pronunciation: <a href="http://www.pronouncenames.com/pronounce/zhihao">G-How Lee</a>). I am a software engineer at <a href="http://www.magicleap.com">Magic Leap</a>, working on all kinds of cool stuff on AR/Deep Learning/HCI. I graduated from <a href="http://www.cmu.edu">Carnegie Mellon University (CMU)</a> with a Master of Science degree in Computer Science. The program is one of the most competitive programs (&lt;5% admission rate!). Before that, I obtained my bachelor’s degree in Software Engineering from <a href="http://www.tongji.edu.cn/">Tongji University</a>, China.</p>
+<p>My name is Kim Gyung Tae (Korean:김경태 金庚泰 , Nick:bees ). I am a software engineer. I graduated from high school in 1989. I was admitted to the Department of Economics to make money. But the Department of Economics was not a place to make money. I was worried about the future. I quit my university. I went to the army while learning aeronautical technology in Seoul. Since 1994, I spent two years studying computer programming on my own. </p> 
+<p>I have experienced a lot of programming since 1999.</p> 
 
-<p>I am a passionate machine learning and computer vision practitioner and researcher. I also studied neuroscience and cognitive science in college. But I believe computers have their own mechanisms to achieve intelligence, not necessarily the same as humans’.</p>
+### Experience
+{% highlight ruby %}
+ 1999 Network Management System
+2000 Website Development / Medical Product / Game Development
+ 2003 Internet Phone Solution
+2005 Remote Education Solution
+ 2009 Game Portal Development / ShoppingMall Development / WebDesign
+2010 MobileApp Game / kakao Game / MobileApp / WebHosting
+ 2016 Internet Marketing Program  / WebApp   
+# Application - WebSolution - MobileApp - WebDesign - BackEnd Server Building - Hardware Making
+{% endhighlight %}
 
-<p>Meanwhile, as a software engineer, I do all kinds of programming/coding, from web front-end, iOS Apps to database and robot platforms. For more, please see my <a href="https://www.linkedin.com/in/lizhihao">Linkedin Profile</a>.</p>
+
+<p>Meanwhile, as a software engineer, I do all kinds of programming/coding, from web front-end, Mobile Apps to database and Hardware Engineering.</p>
 
 <hr />
 
