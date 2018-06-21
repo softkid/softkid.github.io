@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlockChain"
+title:  BlockChain
 date:   2018-04-04 15:00:00
 categories: blockchain
 ---

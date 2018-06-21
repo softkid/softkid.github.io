@@ -23,7 +23,7 @@ permalink: /about/
 <hr />
 
 <h2 id="Are you happy?">Are you happy ?</h2>
-<p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, I have had a lot of experience, but none have succeeded. I lost my health because of my long work. I lost everything. I will be able to walk outside in January 2018 with my efforts for three years. I lost my health and asked myself many questions. <br>
+<p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. <br>I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, I have had a lot of experience, but none have succeeded. I lost my health because of my long work. I lost everything. I will be able to walk outside in January 2018 with my efforts for three years. I lost my health and asked myself many questions. <br>
 <h5> Why did not you succeed? </h5>
 <h5> Why can not I get the money I want?</h5>
 <b>Socrates said. "Know yourself"</b> <br>
@@ -38,21 +38,15 @@ How to live is given to each person. It was a happy life I hoped for through the
 <hr />
 
 <h2 id="interests">Interests</h2> 
-<h3 id="smartfarm">Smart Farm</h3>
-<h3 id="drone">Drone</h3>
-<h3 id="health">Health</h3>
+<h3 id="smartfarm"><code>AI / Smart Farm / Drone / Health</code></h3> 
 
 
-
-<!--h2 id="activities">Activities</h2>
-
+<!--h2 id="activities">Activities</h2> 
 <div style="vertical-align:baseline;float:right;width:15rem;margin-left:1rem;display:none;">
 <img style="margin:0;padding:0" src="/public/imgs/about/hosting.jpg" />
 <small style="font-size: .65rem;color:#aaa;">Fall 13' @ Tongji SSE Orientation Gala</small>
-</div>
-
-<h3 id="tac">Drone</h3>
-
+</div> 
+<h3 id="tac">Drone</h3> 
 <p>TAC stands for <b>T</b>ongji <b>A</b>pple <b>C</b>lub. This is an amazing student developer organisation. As a key member, I was involved into many projects’ planning and development. Being able to work with those talented and brilliant guys is the luckiest thing ever.</p>
 
 <h3 id="art-of-public-speaking-and-langsong">Art of Public Speaking and Langsong</h3>
