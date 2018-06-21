@@ -30,9 +30,9 @@ permalink: /about/
 <b>Dilailima said. "Man can not live alone, only in relationship".</b><br> 
 How to live is given to each person. It was a happy life I hoped for through the success of money. We must strive for happiness. 100% success. 100% laughter. All of you have sufficient competence. You just have to learn and make efforts. Failure is not your fault. Most of us have not learned how important life is from failing since childhood from parents from the country. From now on, ask yourself every day.<br> <b>"Am I happy?" Called..</b></p>
 
-<h2 id="why-this-blog">Why this blog</h2>
+<h2 id="why-this-blog">Wanted</h2>
 
-<p>This blog is a summary of technical news. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
+<p>This blog is a summary of my thoughts about world wide technical information. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.</p>
 
 <hr />
 
