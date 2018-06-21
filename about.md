@@ -34,9 +34,16 @@ Why are you losing your health?</p>
 
 <hr />
 
+<h2 id="interests">Interests</h2> 
+<h3 id="smartfarm">Smart Farm</h3>
+<h3 id="drone">Drone</h3>
+<h3 id="health">Health</h3>
+
+
+
 <h2 id="activities">Activities</h2>
 
-<div style="vertical-align:baseline;float:right;width:15rem;margin-left:1rem;">
+<div style="vertical-align:baseline;float:right;width:15rem;margin-left:1rem;display:none;">
 <img style="margin:0;padding:0" src="/public/imgs/about/hosting.jpg" />
 <small style="font-size: .65rem;color:#aaa;">Fall 13' @ Tongji SSE Orientation Gala</small>
 </div>
