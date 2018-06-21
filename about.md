@@ -28,7 +28,7 @@ permalink: /about/
 <h5> Why can not I get the money I want?</h5>
 <b>Socrates said. "Know yourself"</b> <br>
 <b>Dilailima said. "Man can not live alone, only in relationship".</b><br> 
-How to live is given to each person. It was a happy life I hoped for through the success of money. We must strive for happiness. 100% success. 100% laughter. All of you have sufficient competence. You have to learn and make efforts to get happiness. We did not learn about happy life. But you can be happy. From now on, ask yourself every day. "Am I happy?"<br> <b>"Am I happy?" Called..</b></p>
+How to live is given to each person. It was a happy life I hoped for through the success of money. We must strive for happiness. 100% success. 100% laughter. All of you have sufficient competence. You have to learn and make efforts to get happiness. We did not learn about happy life. But you can be happy. From now on, ask yourself every day. <b>"Am I happy?"</b><br></p>
 
 <hr /> 
 <h2 id="why-this-blog">Wanted</h2>
