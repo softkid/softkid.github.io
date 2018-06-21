@@ -23,8 +23,8 @@ permalink: /about/
 <hr />
 
 <p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, I have had a lot of experience, but none have succeeded. I lost my health because of my long work. I lost everything. I will be able to walk outside in January 2018 with my efforts for three years. I lost my health and asked myself many questions. Why is not there a success? Why did not you succeed? Why can not I get the money I want?
-<b>Socrates said. "Know yourself".</b> </br>
-<b>Dilailima said. "Man can not live alone, only in relationship".</b></br> How to live is a path given to each one. What I hoped for success was a happy life. I can say I am happy now. Success is not in the will but in the process of becoming happy. It is not far away that you can succeed and smile every day.
+<b>Socrates said. "Know yourself".</b> <br>
+<b>Dilailima said. "Man can not live alone, only in relationship".</b><br> How to live is a path given to each one. What I hoped for success was a happy life. I can say I am happy now. Success is not in the will but in the process of becoming happy. It is not far away that you can succeed and smile every day.
 Ask yourself a question. "Am I happy?" The answer lies in it.</p>
 
 <h2 id="why-this-blog">Why this blog</h2>
