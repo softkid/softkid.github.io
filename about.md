@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p>My name is Kim Gyung Tae (Korean:김경태 金庚泰 , Nick:bees ). I am a software engineer. I graduated from high school in 1989. I was admitted to the Department of Economics to make money. But the Department of Economics was not a place to make money. I was worried about the future. I quit my university. I went to the army while learning aeronautical technology in Seoul. Since 1994, I spent two years studying computer programming on my own. </p> 
-<p>I have experienced a lot of programming since 1999.</p> 
+<p>My name is Kim Gyung Tae (Korean:김경태 金庚泰 , Nick:bees ). I am a software engineer. I graduated from high school in 1989. I was admitted to the Department of Economics to make money. But the Department of Economics was not a place to make money. I was worried about the future. I quit my university. I went to the army while learning aeronautical technology in Seoul. Since 1994, I spent two years studying computer programming on my own. I have experienced a lot of project since 1999.</p> 
 
 ### Experience
 {% highlight ruby %}
@@ -23,10 +22,9 @@ permalink: /about/
 
 <hr />
 
-<p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.
-As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, when I looked back, I had a lot of experience but I did not grow it properly.
-And I lost my health a few years ago. I lost everything with him. We will be able to walk outside in January 2018 with our efforts for three years.
-Why are you losing your health?</p>
+<p>I have been working in all areas of IT industry for the last 20 years. This is really worth it. I saw the commercialization of mobile phones, and in the Internet boom, I met a lot of venture companies. As we entered the mobile age, we have been developing technology in the idea business centered on small businesses.As a developer, it is hard for anyone to have the experience of dealing with both hardware and software and even producing it. I am proud of my past experience. However, if you look deeply, you have had a lot of experience, but none of them have grown properly. And I lost my health a few years ago. I lost everything with him. I will be able to walk outside in January 2018 with our efforts for three years. I lost my health and asked myself many questions. Why is not there a success? Why can not I get money if I have the ability? The answer to success was not in ability or ability.
+Socrates said. "Know yourself". Dilailima said. "Man can not live alone, only in relationship". How to live is a path given to each one. What I hoped for success was a happy life. I can say I am happy now. Success is not in the will but in the process of becoming happy. It is not far away that you can succeed and smile every day.
+Ask yourself a question. "Am I happy?" The answer lies in it.</p>
 
 <h2 id="why-this-blog">Why this blog</h2>
 
