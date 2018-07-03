@@ -1,9 +1,30 @@
-[
+[	
+	{
+		"name": "Search Textile",
+		"image": "searchtextile.jpg",
+		"url": "http://www.searchtextile.com",
+		"date": "2018.7",
+		"tags": ["Youtube","VueJS"]
+	},
+	{
+		"name": "Affiliate PRO",
+		"image": "affiliate.jpg",
+		"url": "https://youtu.be/rB5VApqbw0k",
+		"date": "2017.5",
+		"tags": ["REVIEW WEB","PHP"]
+	},
+	{
+		"name": "MakeNow",
+		"image": "makenow.jpg",
+		"url": "https://www.makenow.kr",
+		"date": "2017.3",
+		"tags": ["CMS WEB","VueJS"]
+	},
 	{
 		"name": "Email Hunter",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Visual C#","C++ API"]
+		"image": "emailhunter.jpg",
+		"url": "https://youtu.be/OfVtZyb3BeU",
+		"date": "2017.3",
+		"tags": ["Marketing","C++"]
 	}
 ]
