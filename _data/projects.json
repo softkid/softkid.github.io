@@ -1,5 +1,26 @@
 [	
 	{
+		"name": "STEEM",
+		"image": "makesteem.jpg",
+		"url": "http://www.makesteem.com",
+		"date": "2018.7",
+		"tags": ["Steem Account","VueJS"]
+	},
+	{
+		"name": "Bitcoin Trede",
+		"image": "coinxtt.jpg",
+		"url": "http://www.coinxtt.com",
+		"date": "2018.7",
+		"tags": ["prediction trade","VueJS"]
+	},
+	{
+		"name": "Fortune & Psyche",
+		"image": "goldsaju.jpg",
+		"url": "http://www.goldsaju.com",
+		"date": "2018.7",
+		"tags": ["Fortune Teller","VueJS"]
+	},
+	{
 		"name": "Search Textile",
 		"image": "searchtextile.jpg",
 		"url": "http://www.searchtextile.com",
