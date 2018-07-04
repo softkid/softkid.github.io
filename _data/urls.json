@@ -1,9 +1,8 @@
 [
   {
-    "text": "Post",
-    "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop"
   },
   {
     "text": "About",
@@ -11,9 +10,10 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
+    "text": "Post",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
   },
   {
     "text": "Github",
