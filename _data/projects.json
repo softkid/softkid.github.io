@@ -2,21 +2,21 @@
 	{
 		"name": "STEEM",
 		"image": "makesteem.jpg",
-		"url": "http://www.makesteem.com",
+		"url": "",
 		"date": "2018.7",
 		"tags": ["Steem Account","VueJS"]
 	},
 	{
 		"name": "Cryto Trede",
 		"image": "coinxtt.jpg",
-		"url": "http://www.coinxtt.com",
+		"url": "",
 		"date": "2018.7",
 		"tags": ["prediction trade","VueJS"]
 	},
 	{
 		"name": "Fortune & Psyche",
 		"image": "goldsaju.jpg",
-		"url": "http://www.goldsaju.com",
+		"url": "",
 		"date": "2018.7",
 		"tags": ["Fortune Teller","VueJS"]
 	},
